@@ -1,3 +1,6 @@
 language: bash
 script:
-  - ./test_same2.sh
+
+
+ - ./test_same2.sh
+
